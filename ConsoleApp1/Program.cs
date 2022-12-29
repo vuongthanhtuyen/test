@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Change here");
-Console.WriteLine("this file is change in CP");
+Console.WriteLine("this file is change in CP I din't see anything is chang in my computer"); 
